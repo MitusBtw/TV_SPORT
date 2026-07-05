@@ -1,373 +1,646 @@
 {
-  "updated": "2026-07-05T12:00:00Z",
+  "updated": "2026-07-05T12:00:00+03:00",
   "sources": [
     "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/match-schedule-fixtures-results-teams-stadiums",
-    "https://www.letour.fr/en/overall-route",
+    "https://www.foxsports.com/soccer/fifa-world-cup/schedule",
     "https://www.wimbledon.com/en_GB/the_championships/schedule",
-    "https://esportsworldcup.com/",
-    "https://www.kingregistration.com/event/2026HCF",
-    "https://www.theguardian.com/sport/2026/jul/03/chessfest-back-in-london-as-public-get-chance-to-take-on-grandmasters"
+    "https://www.letour.fr/en/overall-route",
+    "https://esportsworldcup.com/en",
+    "https://www.formula1.com/en/racing/2026",
+    "https://www.mlb.com/all-star/schedule",
+    "https://www.theopen.com/royal-birkdale-154th-open",
+    "https://www.letourfemmes.fr/en/grand-depart/grand-depart-2026"
   ],
   "events": [
     {
-      "id": "evt-20260701-wimbledon-day3",
+      "id": "wim-2026-07-05-r4",
       "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-01",
-      "time": "11:00",
-      "title": "Wimbledon 2026: второй круг",
-      "status": "record",
-      "description": "Третий игровой день The Championships, Wimbledon 2026: матчи одиночного разряда второго круга."
+      "icon": "swimming",
+      "date": "2026-07-05",
+      "time": "15:30",
+      "title": "Wimbledon 2026: 4-й круг",
+      "status": "scheduled",
+      "description": "Gentlemen's and Ladies' Singles Fourth Round на кортах All England Club."
     },
     {
-      "id": "evt-20260701-worldcup-r32",
-      "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-01",
-      "time": "12:00",
-      "title": "FIFA World Cup 2026: матчи 1/16 финала",
-      "status": "record",
-      "description": "Игровой день плей-офф ЧМ-2026: США — Босния и Герцеговина, Мексика — Эквадор, Англия — ДР Конго, Бельгия — Сенегал."
-    },
-    {
-      "id": "evt-20260702-wimbledon-day4",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-02",
-      "time": "11:00",
-      "title": "Wimbledon 2026: второй круг",
-      "status": "record",
-      "description": "Четвёртый игровой день Wimbledon 2026: продолжение матчей одиночного разряда второго круга."
-    },
-    {
-      "id": "evt-20260703-wimbledon-day5",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-03",
-      "time": "11:00",
-      "title": "Wimbledon 2026: третий круг",
-      "status": "record",
-      "description": "Пятый игровой день Wimbledon 2026: старт матчей одиночного разряда третьего круга."
-    },
-    {
-      "id": "evt-20260704-tour-stage1",
+      "id": "tdf-2026-stage-02",
       "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-04",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 1",
-      "status": "record",
-      "description": "Командная гонка на время в Барселоне, 19,6 км. Старт 113-го Tour de France."
+      "icon": "rowing",
+      "date": "2026-07-05",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 2, Tarragona - Barcelona",
+      "status": "scheduled",
+      "description": "Холмистый этап маршрута Tour de France 2026."
     },
     {
-      "id": "evt-20260704-wimbledon-day6",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-04",
-      "time": "11:00",
-      "title": "Wimbledon 2026: третий круг",
-      "status": "record",
-      "description": "Шестой игровой день Wimbledon 2026: продолжение матчей одиночного разряда третьего круга."
-    },
-    {
-      "id": "evt-20260704-worldcup-r16",
+      "id": "wc-2026-m91",
       "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-04",
-      "time": "13:00",
-      "title": "FIFA World Cup 2026: 1/8 финала",
-      "status": "record",
-      "description": "Матчи 1/8 финала ЧМ-2026: Канада — Марокко и Парагвай — Франция."
-    },
-    {
-      "id": "evt-20260705-tour-stage2",
-      "sport": "Велоспорт",
-      "icon": "cycling",
+      "icon": "gymnastics",
       "date": "2026-07-05",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 2",
-      "status": "live",
-      "description": "Этап Tarragona — Barcelona, 168,5 км. Холмистый маршрут с финишем в Барселоне."
+      "time": "23:00",
+      "title": "ЧМ-2026: Бразилия - Норвегия",
+      "status": "scheduled",
+      "description": "Матч 91, 1/8 финала FIFA World Cup 2026, New York New Jersey Stadium."
     },
     {
-      "id": "evt-20260705-wimbledon-day7",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-05",
-      "time": "11:00",
-      "title": "Wimbledon 2026: четвёртый круг",
-      "status": "live",
-      "description": "Седьмой игровой день Wimbledon 2026: матчи одиночного разряда четвёртого круга."
-    },
-    {
-      "id": "evt-20260705-worldcup-bra-nor",
+      "id": "wc-2026-m92",
       "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-05",
-      "time": "16:00",
-      "title": "FIFA World Cup 2026: Бразилия — Норвегия",
-      "status": "live",
-      "description": "Матч 91, 1/8 финала ЧМ-2026. New York New Jersey Stadium."
-    },
-    {
-      "id": "evt-20260705-worldcup-mex-eng",
-      "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-05",
-      "time": "20:00",
-      "title": "FIFA World Cup 2026: Мексика — Англия",
-      "status": "live",
-      "description": "Матч 92, 1/8 финала ЧМ-2026. Mexico City Stadium."
-    },
-    {
-      "id": "evt-20260706-tour-stage3",
-      "sport": "Велоспорт",
-      "icon": "cycling",
+      "icon": "gymnastics",
       "date": "2026-07-06",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 3",
-      "status": "live",
-      "description": "Этап Granollers — Les Angles, 195,9 км. Первый горный этап гонки."
+      "time": "03:00",
+      "title": "ЧМ-2026: Мексика - Англия",
+      "status": "scheduled",
+      "description": "Матч 92, 1/8 финала FIFA World Cup 2026, Mexico City Stadium."
     },
     {
-      "id": "evt-20260706-wimbledon-day8",
+      "id": "wim-2026-07-06-r4",
       "sport": "Теннис",
-      "icon": "tennis",
+      "icon": "swimming",
       "date": "2026-07-06",
-      "time": "11:00",
-      "title": "Wimbledon 2026: четвёртый круг",
-      "status": "live",
-      "description": "Восьмой игровой день Wimbledon 2026: продолжение матчей одиночного разряда четвёртого круга."
+      "time": "15:30",
+      "title": "Wimbledon 2026: 4-й круг",
+      "status": "scheduled",
+      "description": "Второй день матчей Gentlemen's and Ladies' Singles Fourth Round."
     },
     {
-      "id": "evt-20260706-ewc-week1",
+      "id": "tdf-2026-stage-03",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-06",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 3, Granollers - Les Angles",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "ewc-2026-week-01",
       "sport": "Киберспорт",
       "icon": "esports",
       "date": "2026-07-06",
-      "time": "12:00",
+      "time": "18:00",
       "title": "Esports World Cup 2026: неделя 1",
-      "status": "live",
-      "description": "Старт первой недели Esports World Cup 2026."
+      "status": "scheduled",
+      "description": "Первая неделя соревнований EWC 2026 в Париже, 6-12 июля."
     },
     {
-      "id": "evt-20260706-worldcup-por-esp",
+      "id": "wc-2026-m93",
       "sport": "Футбол",
-      "icon": "football",
+      "icon": "gymnastics",
       "date": "2026-07-06",
-      "time": "15:00",
-      "title": "FIFA World Cup 2026: Португалия — Испания",
-      "status": "live",
-      "description": "Матч 93, 1/8 финала ЧМ-2026. Dallas Stadium."
+      "time": "22:00",
+      "title": "ЧМ-2026: Португалия - Испания",
+      "status": "scheduled",
+      "description": "Матч 93, 1/8 финала FIFA World Cup 2026, Dallas Stadium."
     },
     {
-      "id": "evt-20260706-worldcup-usa-bel",
+      "id": "wc-2026-m94",
       "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-06",
-      "time": "20:00",
-      "title": "FIFA World Cup 2026: США — Бельгия",
-      "status": "live",
-      "description": "Матч 94, 1/8 финала ЧМ-2026. Seattle Stadium."
-    },
-    {
-      "id": "evt-20260707-tour-stage4",
-      "sport": "Велоспорт",
-      "icon": "cycling",
+      "icon": "gymnastics",
       "date": "2026-07-07",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 4",
-      "status": "live",
-      "description": "Этап Carcassonne — Foix, 181,9 км. Холмистый этап."
+      "time": "03:00",
+      "title": "ЧМ-2026: США - Бельгия",
+      "status": "scheduled",
+      "description": "Матч 94, 1/8 финала FIFA World Cup 2026, Seattle Stadium."
     },
     {
-      "id": "evt-20260707-wimbledon-day9",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-07",
-      "time": "11:00",
-      "title": "Wimbledon 2026: четвертьфиналы",
-      "status": "live",
-      "description": "Девятый игровой день Wimbledon 2026: женские и мужские четвертьфиналы."
-    },
-    {
-      "id": "evt-20260707-worldcup-arg-egy",
+      "id": "wc-2026-m95",
       "sport": "Футбол",
-      "icon": "football",
+      "icon": "gymnastics",
       "date": "2026-07-07",
       "time": "16:00",
-      "title": "FIFA World Cup 2026: Аргентина — Египет",
-      "status": "live",
-      "description": "Матч 95, 1/8 финала ЧМ-2026. Atlanta Stadium."
+      "title": "ЧМ-2026: Аргентина - Египет",
+      "status": "scheduled",
+      "description": "Матч 95, 1/8 финала FIFA World Cup 2026, Atlanta Stadium."
     },
     {
-      "id": "evt-20260707-worldcup-sui-col",
-      "sport": "Футбол",
-      "icon": "football",
+      "id": "wim-2026-07-07-qf",
+      "sport": "Теннис",
+      "icon": "swimming",
       "date": "2026-07-07",
-      "time": "20:00",
-      "title": "FIFA World Cup 2026: Швейцария — Колумбия",
-      "status": "live",
-      "description": "Матч 96, 1/8 финала ЧМ-2026."
-    },
-    {
-      "id": "evt-20260708-tour-stage5",
-      "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-08",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 5",
-      "status": "live",
-      "description": "Этап Lannemezan — Pau, 158,3 км. Равнинный этап."
-    },
-    {
-      "id": "evt-20260708-wimbledon-day10",
-      "sport": "Теннис",
-      "icon": "tennis",
-      "date": "2026-07-08",
-      "time": "11:00",
+      "time": "15:30",
       "title": "Wimbledon 2026: четвертьфиналы",
-      "status": "live",
-      "description": "Десятый игровой день Wimbledon 2026: продолжение женских и мужских четвертьфиналов."
+      "status": "scheduled",
+      "description": "Первый день Gentlemen's and Ladies' Singles Quarter Finals."
     },
     {
-      "id": "evt-20260709-tour-stage6",
+      "id": "tdf-2026-stage-04",
       "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-09",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 6",
-      "status": "live",
-      "description": "Этап Pau — Gavarnie-Gèdre, 186,2 км. Горный этап."
+      "icon": "rowing",
+      "date": "2026-07-07",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 4, Carcassonne - Foix",
+      "status": "scheduled",
+      "description": "Холмистый этап Tour de France 2026."
     },
     {
-      "id": "evt-20260709-wimbledon-day11",
+      "id": "wc-2026-m96",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-07",
+      "time": "23:00",
+      "title": "ЧМ-2026: Швейцария - Колумбия",
+      "status": "scheduled",
+      "description": "Матч 96, 1/8 финала FIFA World Cup 2026, BC Place Vancouver."
+    },
+    {
+      "id": "wim-2026-07-08-qf",
       "sport": "Теннис",
-      "icon": "tennis",
+      "icon": "swimming",
+      "date": "2026-07-08",
+      "time": "15:30",
+      "title": "Wimbledon 2026: четвертьфиналы",
+      "status": "scheduled",
+      "description": "Второй день Gentlemen's and Ladies' Singles Quarter Finals."
+    },
+    {
+      "id": "tdf-2026-stage-05",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-08",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 5, Lannemezan - Pau",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
+    },
+    {
+      "id": "ewc-2026-opening",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-07-08",
+      "time": "21:00",
+      "title": "Esports World Cup 2026: церемония открытия",
+      "status": "scheduled",
+      "description": "Открытие EWC 2026 в La Seine Musicale, Париж, с DJ Snake, Aya Nakamura и Theodora."
+    },
+    {
+      "id": "wim-2026-07-09-sf-w",
+      "sport": "Теннис",
+      "icon": "swimming",
       "date": "2026-07-09",
-      "time": "11:00",
+      "time": "15:30",
       "title": "Wimbledon 2026: женские полуфиналы",
-      "status": "live",
-      "description": "Одиннадцатый игровой день Wimbledon 2026: полуфиналы женского одиночного разряда."
+      "status": "scheduled",
+      "description": "Ladies' Singles Semi Finals и Mixed Doubles Final на Centre Court."
     },
     {
-      "id": "evt-20260709-worldcup-qf97",
-      "sport": "Футбол",
-      "icon": "football",
+      "id": "tdf-2026-stage-06",
+      "sport": "Велоспорт",
+      "icon": "rowing",
       "date": "2026-07-09",
-      "time": "16:00",
-      "title": "FIFA World Cup 2026: четвертьфинал",
-      "status": "live",
-      "description": "Матч 97, четвертьфинал ЧМ-2026."
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 6, Pau - Gavarnie-Gedre",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026 с финишем в Gavarnie-Gedre."
     },
     {
-      "id": "evt-20260710-tour-stage7",
-      "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-10",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 7",
-      "status": "live",
-      "description": "Этап Hagetmau — Bordeaux, 175,1 км. Равнинный этап."
+      "id": "wc-2026-m97",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-09",
+      "time": "23:00",
+      "title": "ЧМ-2026: Франция - Марокко",
+      "status": "scheduled",
+      "description": "Матч 97, четвертьфинал FIFA World Cup 2026, Foxborough."
     },
     {
-      "id": "evt-20260710-wimbledon-day12",
+      "id": "wim-2026-07-10-sf-m",
       "sport": "Теннис",
-      "icon": "tennis",
+      "icon": "swimming",
       "date": "2026-07-10",
-      "time": "11:00",
+      "time": "15:30",
       "title": "Wimbledon 2026: мужские полуфиналы",
-      "status": "live",
-      "description": "Двенадцатый игровой день Wimbledon 2026: полуфиналы мужского одиночного разряда."
+      "status": "scheduled",
+      "description": "Gentlemen's Singles Semi Finals на Centre Court."
     },
     {
-      "id": "evt-20260710-houston-chess-festival",
-      "sport": "Шахматы",
-      "icon": "chess",
-      "date": "2026-07-10",
-      "time": "09:00",
-      "title": "2026 Houston Chess Festival",
-      "status": "live",
-      "description": "Первый день шахматного фестиваля в Хьюстоне. Турнир проходит 10–12 июля 2026 года."
-    },
-    {
-      "id": "evt-20260710-worldcup-qf98",
-      "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-10",
-      "time": "12:00",
-      "title": "FIFA World Cup 2026: четвертьфинал",
-      "status": "live",
-      "description": "Матч 98, четвертьфинал ЧМ-2026. Los Angeles Stadium."
-    },
-    {
-      "id": "evt-20260711-tour-stage8",
+      "id": "tdf-2026-stage-07",
       "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-11",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 8",
-      "status": "live",
-      "description": "Этап Périgueux — Bergerac, 180,4 км. Равнинный этап."
+      "icon": "rowing",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 7, Hagetmau - Bordeaux",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
     },
     {
-      "id": "evt-20260711-wimbledon-day13",
+      "id": "wc-2026-m98",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-10",
+      "time": "22:00",
+      "title": "ЧМ-2026: четвертьфинал, матч 98",
+      "status": "scheduled",
+      "description": "Победитель матча 93 против победителя матча 94, Los Angeles Stadium."
+    },
+    {
+      "id": "wim-2026-07-11-w-final",
       "sport": "Теннис",
-      "icon": "tennis",
+      "icon": "swimming",
       "date": "2026-07-11",
-      "time": "14:00",
+      "time": "18:00",
       "title": "Wimbledon 2026: женский финал",
-      "status": "live",
-      "description": "Тринадцатый игровой день Wimbledon 2026: финал женского одиночного разряда."
+      "status": "scheduled",
+      "description": "Ladies' Singles Final и Gentlemen's Doubles Final."
     },
     {
-      "id": "evt-20260711-worldcup-qf99",
-      "sport": "Футбол",
-      "icon": "football",
-      "date": "2026-07-11",
-      "time": "16:00",
-      "title": "FIFA World Cup 2026: четвертьфинал",
-      "status": "live",
-      "description": "Матч 99, четвертьфинал ЧМ-2026."
-    },
-    {
-      "id": "evt-20260712-tour-stage9",
+      "id": "tdf-2026-stage-08",
       "sport": "Велоспорт",
-      "icon": "cycling",
-      "date": "2026-07-12",
-      "time": "13:00",
-      "title": "Tour de France 2026: этап 9",
-      "status": "live",
-      "description": "Этап Malemort — Ussel, 185,5 км. Холмистый этап."
+      "icon": "rowing",
+      "date": "2026-07-11",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 8, Perigueux - Bergerac",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
     },
     {
-      "id": "evt-20260712-wimbledon-day14",
+      "id": "wc-2026-m99",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-12",
+      "time": "00:00",
+      "title": "ЧМ-2026: четвертьфинал, матч 99",
+      "status": "scheduled",
+      "description": "Победитель матча 91 против победителя матча 92, Miami Stadium."
+    },
+    {
+      "id": "wc-2026-m100",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-12",
+      "time": "04:00",
+      "title": "ЧМ-2026: четвертьфинал, матч 100",
+      "status": "scheduled",
+      "description": "Победитель матча 95 против победителя матча 96, Kansas City Stadium."
+    },
+    {
+      "id": "wim-2026-07-12-m-final",
       "sport": "Теннис",
-      "icon": "tennis",
+      "icon": "swimming",
+      "date": "2026-07-12",
+      "time": "18:00",
+      "title": "Wimbledon 2026: мужской финал",
+      "status": "scheduled",
+      "description": "Gentlemen's Singles Final и Ladies' Doubles Final."
+    },
+    {
+      "id": "tdf-2026-stage-09",
+      "sport": "Велоспорт",
+      "icon": "rowing",
       "date": "2026-07-12",
       "time": "14:00",
-      "title": "Wimbledon 2026: мужской финал",
-      "status": "live",
-      "description": "Четырнадцатый игровой день Wimbledon 2026: финал мужского одиночного разряда."
+      "title": "Tour de France 2026: этап 9, Malemort - Ussel",
+      "status": "scheduled",
+      "description": "Холмистый этап Tour de France 2026."
     },
     {
-      "id": "evt-20260712-chessfest-london",
-      "sport": "Шахматы",
-      "icon": "chess",
-      "date": "2026-07-12",
-      "time": "12:00",
-      "title": "ChessFest 2026 London",
-      "status": "live",
-      "description": "ChessFest в Лондоне на Trafalgar Square: массовое шахматное событие с сеансами, блицем и открытыми активностями."
+      "id": "ewc-2026-week-02",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-07-13",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 2",
+      "status": "scheduled",
+      "description": "Вторая неделя соревнований EWC 2026 в Париже, 13-19 июля."
     },
     {
-      "id": "evt-20260712-houston-chess-festival-final",
-      "sport": "Шахматы",
+      "id": "tdf-2026-stage-10",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-14",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 10, Aurillac - Le Lioran",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "wc-2026-sf-1",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-14",
+      "time": "22:00",
+      "title": "ЧМ-2026: полуфинал в Dallas Stadium",
+      "status": "scheduled",
+      "description": "Первый полуфинал FIFA World Cup 2026."
+    },
+    {
+      "id": "mlb-2026-all-star",
+      "sport": "Бейсбол",
+      "icon": "boxing",
+      "date": "2026-07-15",
+      "time": "03:00",
+      "title": "MLB All-Star Game 2026",
+      "status": "scheduled",
+      "description": "Матч звезд MLB на Citizens Bank Park в Филадельфии."
+    },
+    {
+      "id": "tdf-2026-stage-11",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-15",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 11, Vichy - Nevers",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
+    },
+    {
+      "id": "wc-2026-sf-2",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-15",
+      "time": "22:00",
+      "title": "ЧМ-2026: полуфинал в Atlanta Stadium",
+      "status": "scheduled",
+      "description": "Второй полуфинал FIFA World Cup 2026."
+    },
+    {
+      "id": "tdf-2026-stage-12",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-16",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 12, Magny-Cours - Chalon-sur-Saone",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
+    },
+    {
+      "id": "open-2026-round-1",
+      "sport": "Гольф",
       "icon": "chess",
-      "date": "2026-07-12",
-      "time": "09:00",
-      "title": "2026 Houston Chess Festival: финальный день",
-      "status": "live",
-      "description": "Заключительный день Houston Chess Festival 2026."
+      "date": "2026-07-16",
+      "time": "10:00",
+      "title": "The 154th Open: первый раунд",
+      "status": "scheduled",
+      "description": "The Open Championship 2026 на Royal Birkdale."
+    },
+    {
+      "id": "tdf-2026-stage-13",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-17",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 13, Dole - Belfort",
+      "status": "scheduled",
+      "description": "Холмистый этап Tour de France 2026."
+    },
+    {
+      "id": "open-2026-round-2",
+      "sport": "Гольф",
+      "icon": "chess",
+      "date": "2026-07-17",
+      "time": "10:00",
+      "title": "The 154th Open: второй раунд",
+      "status": "scheduled",
+      "description": "Второй день The Open Championship 2026 на Royal Birkdale."
+    },
+    {
+      "id": "f1-2026-belgium-weekend",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-07-17",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Бельгии, уик-энд",
+      "status": "scheduled",
+      "description": "Этап Formula 1 2026 на Spa-Francorchamps, 17-19 июля."
+    },
+    {
+      "id": "tdf-2026-stage-14",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-18",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 14, Mulhouse - Le Markstein Fellering",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "open-2026-round-3",
+      "sport": "Гольф",
+      "icon": "chess",
+      "date": "2026-07-18",
+      "time": "10:00",
+      "title": "The 154th Open: третий раунд",
+      "status": "scheduled",
+      "description": "Третий день The Open Championship 2026 на Royal Birkdale."
+    },
+    {
+      "id": "wc-2026-bronze",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-19",
+      "time": "00:00",
+      "title": "ЧМ-2026: матч за третье место",
+      "status": "scheduled",
+      "description": "Bronze Final FIFA World Cup 2026, Miami Stadium."
+    },
+    {
+      "id": "tdf-2026-stage-15",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-19",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 15, Champagnole - Plateau de Solaison",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "open-2026-final",
+      "sport": "Гольф",
+      "icon": "chess",
+      "date": "2026-07-19",
+      "time": "10:00",
+      "title": "The 154th Open: финальный раунд",
+      "status": "scheduled",
+      "description": "Финальный день The Open Championship 2026 на Royal Birkdale."
+    },
+    {
+      "id": "f1-2026-belgium-race",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-07-19",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Бельгии",
+      "status": "scheduled",
+      "description": "Гонка Formula 1 2026 на Spa-Francorchamps."
+    },
+    {
+      "id": "wc-2026-final",
+      "sport": "Футбол",
+      "icon": "gymnastics",
+      "date": "2026-07-19",
+      "time": "22:00",
+      "title": "ЧМ-2026: финал",
+      "status": "scheduled",
+      "description": "Final FIFA World Cup 2026, New York New Jersey Stadium."
+    },
+    {
+      "id": "ewc-2026-week-03",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-07-20",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 3",
+      "status": "scheduled",
+      "description": "Третья неделя соревнований EWC 2026 в Париже, 20-26 июля."
+    },
+    {
+      "id": "tdf-2026-stage-16",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-21",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 16, Evian-les-Bains - Thonon-les-Bains",
+      "status": "scheduled",
+      "description": "Индивидуальная гонка с раздельным стартом Tour de France 2026."
+    },
+    {
+      "id": "tdf-2026-stage-17",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-22",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 17, Chambery - Voiron",
+      "status": "scheduled",
+      "description": "Равнинный этап Tour de France 2026."
+    },
+    {
+      "id": "tdf-2026-stage-18",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-23",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 18, Voiron - Orcieres-Merlette",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "tdf-2026-stage-19",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-24",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 19, Gap - Alpe d'Huez",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026 с финишем на Alpe d'Huez."
+    },
+    {
+      "id": "f1-2026-hungary-weekend",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-07-24",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Венгрии, уик-энд",
+      "status": "scheduled",
+      "description": "Этап Formula 1 2026 в Будапеште, 24-26 июля."
+    },
+    {
+      "id": "tdf-2026-stage-20",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-25",
+      "time": "14:00",
+      "title": "Tour de France 2026: этап 20, Le Bourg d'Oisans - Alpe d'Huez",
+      "status": "scheduled",
+      "description": "Горный этап Tour de France 2026."
+    },
+    {
+      "id": "tdf-2026-stage-21",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-07-26",
+      "time": "17:00",
+      "title": "Tour de France 2026: этап 21, Thoiry - Paris Champs-Elysees",
+      "status": "scheduled",
+      "description": "Финальный равнинный этап Tour de France 2026."
+    },
+    {
+      "id": "f1-2026-hungary-race",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-07-26",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Венгрии",
+      "status": "scheduled",
+      "description": "Гонка Formula 1 2026 на Hungaroring."
+    },
+    {
+      "id": "ewc-2026-week-04",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-07-27",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 4",
+      "status": "scheduled",
+      "description": "Четвертая неделя соревнований EWC 2026 в Париже, 27 июля - 2 августа."
+    },
+    {
+      "id": "tdff-2026-stage-01",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-08-01",
+      "time": "14:00",
+      "title": "Tour de France Femmes 2026: этап 1, Lausanne",
+      "status": "scheduled",
+      "description": "Старт Tour de France Femmes avec Zwift 2026 в Швейцарии."
+    },
+    {
+      "id": "tdff-2026-stage-02",
+      "sport": "Велоспорт",
+      "icon": "rowing",
+      "date": "2026-08-02",
+      "time": "14:00",
+      "title": "Tour de France Femmes 2026: этап 2, Aigle - Geneva",
+      "status": "scheduled",
+      "description": "Второй этап Tour de France Femmes avec Zwift 2026."
+    },
+    {
+      "id": "ewc-2026-week-05",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-08-04",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 5",
+      "status": "scheduled",
+      "description": "Пятая неделя соревнований EWC 2026 в Париже, 4-9 августа."
+    },
+    {
+      "id": "ewc-2026-week-06",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-08-10",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 6",
+      "status": "scheduled",
+      "description": "Шестая неделя соревнований EWC 2026 в Париже, 10-16 августа."
+    },
+    {
+      "id": "ewc-2026-week-07",
+      "sport": "Киберспорт",
+      "icon": "esports",
+      "date": "2026-08-17",
+      "time": "18:00",
+      "title": "Esports World Cup 2026: неделя 7",
+      "status": "scheduled",
+      "description": "Финальная неделя соревнований EWC 2026 в Париже, 17-23 августа."
+    },
+    {
+      "id": "f1-2026-netherlands-weekend",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-08-21",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Нидерландов, уик-энд",
+      "status": "scheduled",
+      "description": "Этап Formula 1 2026 в Зандворте, 21-23 августа."
+    },
+    {
+      "id": "f1-2026-netherlands-race",
+      "sport": "Формула-1",
+      "icon": "boxing",
+      "date": "2026-08-23",
+      "time": "16:00",
+      "title": "F1 2026: Гран-при Нидерландов",
+      "status": "scheduled",
+      "description": "Гонка Formula 1 2026 в Зандворте."
     }
   ]
 }
